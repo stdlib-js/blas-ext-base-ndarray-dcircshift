@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-10)
+## Unreleased (2026-08-12)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cb9723a`](https://github.com/stdlib-js/stdlib/commit/cb9723af638d9244ea0b50bcb07c550f13bdedce) - **docs:** update examples [(#14169)](https://github.com/stdlib-js/stdlib/pull/14169) _(by Philipp Burckhardt)_
 -   [`fcca435`](https://github.com/stdlib-js/stdlib/commit/fcca4355ad6d547eb04701c573cd151fe74adf88) - **docs:** update `blas/ext/base/ndarray` scalar helper imports [(#12880)](https://github.com/stdlib-js/stdlib/pull/12880) _(by Karan Anand)_
 -   [`392a8dc`](https://github.com/stdlib-js/stdlib/commit/392a8dce20ee0948ed6ad38f98efbee608997450) - **docs:** update example _(by Athan Reines)_
 -   [`81d0c40`](https://github.com/stdlib-js/stdlib/commit/81d0c40992d501090684ee80a52170885a8ccc0c) - **docs:** add notes _(by Athan Reines)_
@@ -38,11 +39,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
